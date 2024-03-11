@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{360B5E0D-90F1-2BDC-2E21-2B38B723285A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Dinos", "Polyperfect.Dinos.csproj", "{20729184-DAA2-4CF2-DEC1-8BB8D6532F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Common", "Polyperfect.Common.csproj", "{0F1D7EF7-93CD-905E-EEED-8092CC33D516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360B5E0D-90F1-2BDC-2E21-2B38B723285A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360B5E0D-90F1-2BDC-2E21-2B38B723285A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360B5E0D-90F1-2BDC-2E21-2B38B723285A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360B5E0D-90F1-2BDC-2E21-2B38B723285A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20729184-DAA2-4CF2-DEC1-8BB8D6532F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20729184-DAA2-4CF2-DEC1-8BB8D6532F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20729184-DAA2-4CF2-DEC1-8BB8D6532F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20729184-DAA2-4CF2-DEC1-8BB8D6532F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1D7EF7-93CD-905E-EEED-8092CC33D516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1D7EF7-93CD-905E-EEED-8092CC33D516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1D7EF7-93CD-905E-EEED-8092CC33D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1D7EF7-93CD-905E-EEED-8092CC33D516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
